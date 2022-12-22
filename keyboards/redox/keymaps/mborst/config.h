@@ -27,4 +27,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define PERMISSIVE_HOLD
 
-#define TAPPING_TERM 170
+#define TAPPING_TERM 200
